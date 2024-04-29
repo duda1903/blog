@@ -1,0 +1,74 @@
+.btn.btn-primary {
+    background-color: #197acf;
+    border: none;
+}
+
+.card.h-100 {
+    border: 1px solid #197acf;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+}
+
+.navbar.bg-body-tertiary{
+    height: 5rem;
+    width: 95vw;
+    margin-top: 1%;
+    margin-left: 2%;
+    background: #4a95df;
+    border-radius:20px;
+}
+
+.navbar-brand{
+    color: #fff;
+    margin-left: 2%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.navbar-brand:hover{
+    color: black;
+}
+
+.btn.btn-outline{
+    background-color:white;
+    color: #197acf;
+    border-color: #197acf;
+}
+
+.btn.btn-outline:hover{
+    background-color: #4a95df;
+    border-color: #197acf;
+    color: #fff;
+}
+
+.form-control.me-2{
+    border-color: #197acf;
+}
+
+.form-control.me-2::placeholder{
+    color: #197acf;
+}
+
+#searchBox{
+    margin-right: 3%;
+}
+.container{
+    margin-top: 8%;
+}
+
+.img{
+    border-radius: 10px;
+}
+
+#card{
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 8%;
+    margin-left:30%;
+    margin-bottom: 10px;
+    border: 0.5px solid #197acf;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+}
+
+.card-text{
+    margin-left: -3%;
+    font-size: 20px;
+}
